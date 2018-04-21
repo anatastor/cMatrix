@@ -1,13 +1,16 @@
 /*
- * 2018-04-17
- * Torsten Lehmann
- * anatas.torsten@gmx.de
+ * GNU cMatrices 2.3
+ * License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+ * This is free software: you are free to change and redistibute it.
+ * There is NO WARRANTY, to the extent permitted by law.
  *
+ * Author: Torsten Lehmann
+ * Mail: anatas.torsten@gmx.de
  */
 
 
-#ifndef _MATRICES_H_
-#define _MATRICES_H_
+#ifndef _CMATRICES_H_
+#define _CMATRICES_H_
 
 #include <stdio.h>
 #include <stdlib.h>

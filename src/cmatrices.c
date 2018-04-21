@@ -1,5 +1,5 @@
 
-#include "matrices.h"
+#include "cmatrices.h"
 
 
 matrix *matrix_create (const size_t rows, const size_t cols)
